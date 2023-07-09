@@ -17,3 +17,7 @@ Olá, eu me chamo Mateus (sem H). Sou estudante do Ensino Médio Integrado a Inf
 ### Contatos
 
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+### Stats
+
+[![mat-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat-afk&show_icons=true&theme=tokyonight)](https://github.com/mat-afk/github-readme-stats)
