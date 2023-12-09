@@ -35,3 +35,19 @@ Olá, eu me chamo Mateus (sem H). Sou estudante do Ensino Médio Integrado a Inf
 ### Stats
 
 [![mat-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat-afk&show_icons=true&theme=tokyonight)](https://github.com/mat-afk/github-readme-stats)
+
+<div>
+        </picture> 
+            <picture>
+            <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-afk&layout=donut-vertical&theme=tokyonight"
+            media="(prefers-color-scheme: dark)"
+            />
+            <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-afk&layout=donut-vertical&theme=tokyonight"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-afk&layout=donut-vertical&theme=tokyonight" />
+        </picture>
+</div>
+
