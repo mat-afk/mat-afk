@@ -24,6 +24,7 @@ Olá, eu me chamo Mateus (sem H). Sou estudante do curso Técnico em Informátic
 #### Environment & build tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 #### Outros
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -41,17 +42,17 @@ Olá, eu me chamo Mateus (sem H). Sou estudante do curso Técnico em Informátic
 
 ### Projetos de destaque
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mat-afk&repo=swellow-app&show_icons=true&theme=tokyonight)](https://github.com/mat-afk/swellow-app)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mat-afk&repo=polls-api&show_icons=true&theme=tokyonight)](https://github.com/mat-afk/polls-api)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mat-afk&repo=swellow-app&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/mat-afk/swellow-app)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mat-afk&repo=polls-api&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/mat-afk/polls-api)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=talesofamysticland&repo=tales-of-a-mystic-land&show_icons=true&theme=tokyonight)](https://github.com/talesofamysticland/tales-of-a-mystic-land)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mat-afk&repo=pass-in-api&show_icons=true&theme=tokyonight)](https://github.com/mat-afk/pass-in-api)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=talesofamysticland&repo=tales-of-a-mystic-land&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/talesofamysticland/tales-of-a-mystic-land)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mat-afk&repo=pass-in-api&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/mat-afk/pass-in-api)
 
 ---
 
 ### Github Stats
 
-[![mat-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat-afk&show_icons=true&theme=tokyonight)](https://github.com/mat-afk/github-readme-stats)
+[![mat-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat-afk&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/mat-afk/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mat-afk&layout=donut-vertical&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mat-afk&layout=donut-vertical&theme=tokyonight&border_color=7098c7)
 
