@@ -45,10 +45,10 @@ Olá, eu me chamo Mateus (sem H). Sou estudante do curso Técnico em Informátic
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mat-afk&repo=swellow-app&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/mat-afk/swellow-app)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mat-afk&repo=polls-api&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/mat-afk/polls-api)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=team-backpack&repo=backpack-server&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/team-backpack/backpack-server)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=team-backpack&repo=backpack-client&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/team-backpack/backpack-client)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=talesofamysticland&repo=tales-of-a-mystic-land&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/talesofamysticland/tales-of-a-mystic-land)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mat-afk&repo=pass-in-api&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/mat-afk/pass-in-api)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mat-afk&repo=polls-api&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/team-backpack/backpack-server)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mat-afk&repo=polls-api&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/team-backpack/backpack-client)
 
 ---
 
