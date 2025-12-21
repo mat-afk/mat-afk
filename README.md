@@ -14,6 +14,7 @@ Olá, eu me chamo Mateus (sem H). Sou estudante do curso Técnico em Informátic
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Frameworks, libraries & runtimes
+
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -62,5 +63,5 @@ Olá, eu me chamo Mateus (sem H). Sou estudante do curso Técnico em Informátic
 
 [![mat-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat-afk&show_icons=true&theme=tokyonight&border_color=7098c7)](https://github.com/mat-afk/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mat-afk&layout=donut-vertical&theme=tokyonight&border_color=7098c7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mat-afk&layout=donut-vertical&theme=tokyonight&border_color=7098c7&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
