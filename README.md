@@ -1,6 +1,6 @@
 # ☕ Ei, você! 👾
 
-Olá, eu me chamo Mateus (sem H). Sou estudante do curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal de São Paulo - Campus São Paulo. Aqui, você encontrará boa parte dos meus estudos sobre Python, HTML/CSS, Javascript, React, Node.js e, claro, Java (que é um tipo de café), além de um monte de outros projetos legais no qual trabalho no meu tempo livre :)
+Olá, eu me chamo Mateus (sem H). Sou estudante de Ciência da Computação na Universidade de São Paulo (USP). Aqui, você encontrará boa parte dos meus estudos sobre Python, HTML/CSS, Javascript, React, Node.js e, claro, Java, além de um monte de outros projetos legais no qual trabalho no meu tempo livre :)
 
 ---
 
